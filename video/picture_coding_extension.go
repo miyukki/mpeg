@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type fCode [2][2]uint32
 

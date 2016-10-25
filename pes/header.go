@@ -1,6 +1,6 @@
 package pes
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 const (
 	minimumHeaderSize uint32 = 3

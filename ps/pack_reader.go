@@ -6,7 +6,7 @@ import (
 )
 
 import (
-	"github.com/32bitkid/bitreader"
+	"github.com/miyukki/bitreader"
 	"github.com/32bitkid/mpeg/pes"
 )
 

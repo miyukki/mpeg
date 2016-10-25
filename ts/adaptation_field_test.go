@@ -1,7 +1,7 @@
 package ts_test
 
 import "testing"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "github.com/32bitkid/mpeg/ts"
 
 func TestAdaptationField(t *testing.T) {

@@ -1,6 +1,6 @@
 package ps
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "github.com/32bitkid/mpeg/pes"
 
 type Pack struct {

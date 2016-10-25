@@ -3,7 +3,7 @@ package pes
 import "errors"
 import "io"
 import "io/ioutil"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "github.com/32bitkid/mpeg/ts"
 
 // StartCodePrefix is the prefix that signals the start a PES packet.

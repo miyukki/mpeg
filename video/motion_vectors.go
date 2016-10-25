@@ -1,7 +1,7 @@
 package video
 
 import "github.com/32bitkid/huffman"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type motionVectors [2][2][2]int
 type motionVectorPredictions motionVectors

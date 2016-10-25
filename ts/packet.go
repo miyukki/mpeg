@@ -1,6 +1,6 @@
 package ts
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "io"
 import "errors"
 import "fmt"

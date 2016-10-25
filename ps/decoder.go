@@ -1,6 +1,6 @@
 package ps
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type Decoder interface {
 	Packs() <-chan *Pack

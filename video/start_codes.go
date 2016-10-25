@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "errors"
 
 // StartCode is a 32 bit code that acts as a marker in a coded bitstream.

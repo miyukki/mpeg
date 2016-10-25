@@ -3,7 +3,7 @@ package ts
 import "io"
 import "bytes"
 import "errors"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 // EOP is the error returned by Read when the current payload unit
 // has been completed. The Readonly only returns EOP only to

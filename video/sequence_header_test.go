@@ -3,7 +3,7 @@ package video
 import "testing"
 import "io"
 import "bytes"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "encoding/base64"
 
 func TestSequenceHeader(t *testing.T) {

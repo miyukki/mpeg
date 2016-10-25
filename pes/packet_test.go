@@ -2,7 +2,7 @@ package pes_test
 
 import "testing"
 import "github.com/32bitkid/mpeg/pes"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 func TestPacketWithExtensionFlag(t *testing.T) {
 	br := bitreader.NewBitReader(packetWithExtensionFlag())

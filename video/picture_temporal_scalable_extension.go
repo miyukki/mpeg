@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type PictureTemporalScalableExtension struct {
 	reference_select_code       uint32 // 2 uimsbf

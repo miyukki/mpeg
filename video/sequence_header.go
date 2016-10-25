@@ -1,7 +1,7 @@
 package video
 
 import "errors"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 var ErrMissingMarkerBit = errors.New("missing marker bit")
 

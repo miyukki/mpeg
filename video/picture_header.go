@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "fmt"
 
 type PictureHeader struct {

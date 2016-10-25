@@ -2,7 +2,7 @@ package pes
 
 import "io"
 import "bytes"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 // NewPayloadReader creates a new reader that provides only Payload bytes from the source PES stream
 func NewPayloadReader(source io.Reader) io.Reader {

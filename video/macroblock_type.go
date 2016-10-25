@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "github.com/32bitkid/huffman"
 
 type macroblockTypeDecoderFn func(bitreader.BitReader) (*MacroblockType, error)

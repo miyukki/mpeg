@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type SequenceExtension struct {
 	profile_and_level_indication uint32       // 8 uimsbf

@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "errors"
 
 // ExtensionID is a 4 bit code, that immediately follows an ExtensionStartCode,

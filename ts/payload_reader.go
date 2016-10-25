@@ -2,7 +2,7 @@ package ts
 
 import "io"
 import "bytes"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 // NewPayloadReader takes a transport stream and creates a reader
 // that delivers just the packet payload bytes.

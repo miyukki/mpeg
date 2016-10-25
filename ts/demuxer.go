@@ -1,6 +1,6 @@
 package ts
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "io"
 
 // Creates a new MPEG-2 Transport Stream Demultiplexer

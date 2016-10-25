@@ -2,7 +2,7 @@ package video
 
 import "io"
 import "image"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type sequenceHeaders struct {
 	*SequenceHeader

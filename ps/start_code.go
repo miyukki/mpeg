@@ -1,7 +1,7 @@
 package ps
 
 import "errors"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 // ErrUnexpectedStartCode indicates that a start code was read from the bitstream that was unexpected.
 var ErrUnexpectedStartCode = errors.New("unexpected start code")

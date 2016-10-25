@@ -1,6 +1,6 @@
 package video
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 
 type SequenceDisplayExtension struct {
 	video_format             uint32 // 3 uimsbf

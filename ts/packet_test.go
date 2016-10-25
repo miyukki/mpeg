@@ -2,7 +2,7 @@ package ts_test
 
 import "testing"
 import "io"
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "github.com/32bitkid/mpeg/ts"
 
 func TestPacketParsing(t *testing.T) {

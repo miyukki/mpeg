@@ -1,6 +1,6 @@
 package ts
 
-import "github.com/32bitkid/bitreader"
+import "github.com/miyukki/bitreader"
 import "io"
 
 // AdaptationFieldControl is the two bit code that appears in a transport

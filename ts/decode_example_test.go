@@ -3,7 +3,7 @@ package ts_test
 import (
 	"encoding/base64"
 	"fmt"
-	"github.com/32bitkid/bitreader"
+	"github.com/miyukki/bitreader"
 	"github.com/32bitkid/mpeg/ts"
 	"strings"
 )
